@@ -1,0 +1,4 @@
+patient_id,full_name,appointment_date,insurance_code
+1001,Ana Perez,2026-05-10,IESS
+1002,Carlos Ruiz,2026-05-10,PRIVADO
+1003,Mariana Lopez,2026-05-11,NINGUNO

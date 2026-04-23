@@ -1,0 +1,4 @@
+patient_id,full_name,appointment_date,insurance_code
+3001,Sofia Mena,2026-05-13,IESS
+3002,,2026-05-13,PRIVADO
+3003,Diego Luna,2026-13-40,NINGUNO

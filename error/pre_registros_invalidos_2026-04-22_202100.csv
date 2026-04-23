@@ -1,0 +1,4 @@
+patient_id,full_name,appointment_date,insurance_code
+1001,Ana Perez,10/05/2026,IESS
+1002,,2026-05-10,ABC
+1003,Luis Paredes,2026/05/11,PRIVADO
